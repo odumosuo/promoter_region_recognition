@@ -19,4 +19,4 @@ Extended regular expression
 Fasta file containing the maize genome, version AGPv4 was obtained here: ftp.ensemblgenomes.org/pub/release-48/plants/fasta/zea_mays/dna  
 
 GTF/GFF file for the same version to find the TSS for each gene was obtained here:
-ftp.ensemblegenomes.org/pub/release-48/plants/gff3/zea_mays
+ftp.ensemblgenomes.org/pub/release-48/plants/gff3/zea_mays
