@@ -9,10 +9,10 @@ GFF3 and fasta file should be in one folder.
 Run python script and answer prompts
 
 ## Features
-Transcription starty site (TSS)
-Transcription factorbinding sites (TFBSs)  
-Fasta file
-GTF/GFF file
-Extended regular expression
+Transcription starty site (TSS)  
+Transcription factorbinding sites (TFBSs)    
+Fasta file  
+GTF/GFF file  
+Extended regular expression  
 
 
